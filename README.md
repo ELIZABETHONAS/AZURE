@@ -2,31 +2,26 @@
 <img src="https://i.imgur.com/w9oAkDM.png"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
+<h1>Azure - Resource Group and Virtual Machine</h1>
+This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
-- Wire Shark
-- osTicket
-- MySQL
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Microsoft Remote Desktop
+- Mac Os
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services
-- Install web platform
-- Install MySQL
-- Install WireShark
-- Enable osTicket
+- A registered Microsoft account
+
+- An active Azure subscription
 
 <h2>Installation Steps</h2>
 
@@ -34,7 +29,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/YxFeUdc.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+To create a resource group, start by typing RESOURCE GROUP on the search bar, click on Resource Group then proceed to fill the necessary information require, please take note of the name. 
+
+  - Select your region of choice
+  
+  - Proceed to TAG, leave Tag in the default setting
+  
+  - Proceed to Review and create your Resource Group, this will take a moment, refresh and go to the search bar and search for resource group, once you click on it, your newly formed resource group should be seen 
+
 </p>
 <br />
 
