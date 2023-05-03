@@ -25,6 +25,14 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 
 <h2>Installation Steps</h2>
 
+
+<p>
+<img src="https://imgur.com/To2bUyi.png"/>
+</p>
+<p>
+
+To create a resource group, start by typing RESOURCE GROUP on the search bar, click on Resource Group then proceed to fill the necessary information require, please take note of the name. 
+
 <p>
 <img src="https://i.imgur.com/YxFeUdc.png"/>
 </p>
