@@ -31,21 +31,13 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 </p>
 <p>
 
-To create a resource group, start by typing RESOURCE GROUP on the search bar, click on Resource Group then proceed to fill the necessary information require, please take note of the name. 
-
+-  Within the Azure Portal, Create a Resource Group
 <p>
 <img src="https://i.imgur.com/YxFeUdc.png"/>
 </p>
 <p>
 
-To create a resource group, start by typing RESOURCE GROUP on the search bar, click on Resource Group then proceed to fill the necessary information require, please take note of the name. 
-
-  - Select your region of choice
-  
-  - Proceed to TAG, leave Tag in the default setting
-  
-  - Proceed to Review and create your Resource Group, this will take a moment, refresh and go to the search bar and search for resource group, once you click on it, your newly formed resource group should be seen 
-
+- Create a Storage Account within the Resource Group created in Step 1
 </p>
 <br />
 
@@ -53,7 +45,8 @@ To create a resource group, start by typing RESOURCE GROUP on the search bar, cl
 <img src="https://i.imgur.com/7J3krT3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Create a file on your local desktop and upload it into the Storage Account
 </p>
 <br />
 
@@ -61,7 +54,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/ROZR6AO.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Edit the file within the Storage Account (within the Azure Portal)
 </p>
 <br />
 
@@ -69,6 +63,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/nCxk3iO.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Delete the Resource Group created in step 1 (in order to ensure you don’t incur “cost”)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nCxk3iO.png"/>
+</p>
+<p>
+
+- Verify that the Resource Group has been deleted
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nCxk3iO.png"/>
+</p>
+<p>
+
+- 
 </p>
 <br />
