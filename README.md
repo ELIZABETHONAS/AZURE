@@ -27,13 +27,13 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 
 
 <p>
-<img src=""/>
+<img src="https://imgur.com/PNb8vwb.png"/>
 </p>
 <p>
 
 -  Within the Azure Portal, Create a Resource Group
 <p>
-<img src=""/>
+<img src="https://imgur.com/1e2CdE0.png"/>
 </p>
 <p>
 
@@ -42,7 +42,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src=""/> 
+<img src="https://imgur.com/9vxL179.png"/> 
 </p>
 <p>
 
@@ -51,7 +51,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src=""/>
+<img src="https://imgur.com/ro4cZkO.pngl"/>
 </p>
 <p>
 
@@ -60,16 +60,16 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src=""/>
+<img src="https://imgur.com/noLTjVo.png"/>
 </p>
 <p>
 
-- Delete the Resource Group created in step 1 (in order to ensure you don’t incur “cost”)
+- Delete the Storage Account created in step 1 (in order to ensure you don’t incur “cost”)
 </p>
 <br />
 
 <p>
-<img src=""/>
+<img src="https://imgur.com/2DZwP4x.png"/>
 </p>
 <p>
 
@@ -77,11 +77,3 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 </p>
 <br />
 
-<p>
-<img src=""/>
-</p>
-<p>
-
-- 
-</p>
-<br />
