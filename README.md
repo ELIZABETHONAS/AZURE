@@ -27,13 +27,13 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 
 
 <p>
-<img src="https://imgur.com/To2bUyi.png"/>
+<img src=""/>
 </p>
 <p>
 
 -  Within the Azure Portal, Create a Resource Group
 <p>
-<img src="https://i.imgur.com/YxFeUdc.png"/>
+<img src=""/>
 </p>
 <p>
 
@@ -42,7 +42,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/7J3krT3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/> 
 </p>
 <p>
 
@@ -60,7 +60,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/nCxk3iO.png"/>
+<img src=""/>
 </p>
 <p>
 
@@ -69,7 +69,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/nCxk3iO.png"/>
+<img src=""/>
 </p>
 <p>
 
@@ -78,7 +78,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/nCxk3iO.png"/>
+<img src=""/>
 </p>
 <p>
 
