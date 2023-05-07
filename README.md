@@ -51,7 +51,7 @@ This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/ROZR6AO.png"/>
+<img src=""/>
 </p>
 <p>
 
