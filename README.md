@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/w9oAkDM.png"/>
 </p>
 
-<h1>Azure - Resource Group and Virtual Machine</h1>
-This tutorial outlines the installation Cloud Services on Microsoft Azure<br />
+<h1>Azure - Resource Group and Cloud Storage </h1>
+This tutorial outlines the installation of Resource Group and Cloud Storage on Microsoft Azure<br />
 
 
 <h2>Environments and Technologies Used</h2>
