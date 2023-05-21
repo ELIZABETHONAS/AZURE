@@ -27,20 +27,32 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 
 
 <p>
-  
 <img src="https://imgbox.com/v8xxrTQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+-   To create the Resource Group an Azure subscrption is require
+-   Once done, search for Resource Group 
+-   Click on create and give your Resource Group a universally unique name, it's RGLAB for this project
+-   Deployment might take a few minutes
 
+<p>
 <img src="https://imgur.com/PNb8vwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 
--  Within the Azure Portal, Create a Resource Group
+-  Confirm your Resource Group has been successfully created
+
+</p>
+<br /> 
+
 <p>
 <img src="https://imgur.com/1e2CdE0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 - Create a Storage Account within the Resource Group created in Step 1
+  
 </p>
 <br />
 
