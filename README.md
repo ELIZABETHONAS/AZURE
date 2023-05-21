@@ -27,6 +27,7 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 
 
 <p>
+  
 <img src="https://imgbox.com/v8xxrTQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://imgur.com/PNb8vwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
