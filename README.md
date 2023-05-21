@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/w9oAkDM.png"/>
+<img src="https://i.imgur.com/w9oAkDM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>Azure - Resource Group and Cloud Storage </h1>
@@ -26,9 +26,9 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgbox.com/v8xxrTQl.png"/>
+<img src="https://imgbox.com/v8xxrTQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://imgur.com/PNb8vwb.png"/>
+<img src="https://imgur.com/PNb8vwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 
