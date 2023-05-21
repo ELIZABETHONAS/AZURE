@@ -25,8 +25,9 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 
 <h2>Installation Steps</h2>
 
-
 <p>
+<img src="https://imgbox.com/v8xxrTQl.png"/>
+
 <img src="https://imgur.com/PNb8vwb.png"/>
 </p>
 <p>
