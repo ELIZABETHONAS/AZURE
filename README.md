@@ -34,7 +34,7 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 
 -  Within the Azure Portal, Create a Resource Group
 <p>
-<img src="https://imgur.com/1e2CdE0.png"/>
+<img src="https://imgur.com/1e2CdE0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -43,7 +43,7 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 <br />
 
 <p>
-<img src="https://imgur.com/9vxL179.png"/> 
+<img src="https://imgur.com/9vxL179.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 
@@ -52,7 +52,7 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 <br />
 
 <p>
-<img src="https://imgur.com/ro4cZkO.pngl"/>
+<img src="https://imgur.com/ro4cZkO.pngl" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -61,7 +61,7 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 <br />
 
 <p>
-<img src="https://imgur.com/noLTjVo.png"/>
+<img src="https://imgur.com/noLTjVo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -70,7 +70,7 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 <br />
 
 <p>
-<img src="https://imgur.com/2DZwP4x.png"/>
+<img src="https://imgur.com/2DZwP4x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
