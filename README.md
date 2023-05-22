@@ -51,7 +51,10 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 </p>
 <p>
 
-- Create a Storage Account within the Resource Group created in Step 1
+-  Let’s create a cloud storage space
+   - Click on create, name your account, LABSTORE09 for this project
+   - This should take a few minutes to create
+   - Confirm success
   
 </p>
 <br />
@@ -61,7 +64,11 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 </p>
 <p>
 
-- Create a file on your local desktop and upload it into the Storage Account
+-  To create a container.
+  - Click on storage account.
+  - Click on containers, name container, LABCON09 for this project.
+  - Create a file on your local desktop and upload it into the container.
+ 
 </p>
 <br />
 
@@ -70,7 +77,8 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 </p>
 <p>
 
-- Edit the file within the Storage Account (within the Azure Portal)
+-  Confirm success.
+ 
 </p>
 <br />
 
@@ -79,7 +87,9 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 </p>
 <p>
 
-- Delete the Storage Account created in step 1 (in order to ensure you don’t incur “cost”)
+-  Don’t forget to clean up your resources (in order to ensure you don’t incur “cost”) 
+-  Simply go back to the resource group, storage account and container page and delete.
+-  This may take a few minutes
 </p>
 <br />
 
@@ -88,7 +98,8 @@ This tutorial outlines the installation of Resource Group and Cloud Storage on M
 </p>
 <p>
 
-- Verify that the Resource Group has been deleted
+-   Confirm deletion
+-   The end.
 </p>
 <br />
 
