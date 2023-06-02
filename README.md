@@ -3,7 +3,7 @@
 </p>
 
 <h1>Azure - Resource Group and Cloud Storage </h1>
-This tutorial outlines the installation of Resource Group and Cloud Storage on Microsoft Azure<br />
+This project outlines the installation of Resource Group and Cloud Storage on Microsoft Azure<br />
 
 
 <h2>Environments and Technologies Used</h2>
