@@ -31,10 +31,10 @@ This project outlines the installation of Resource Group and Cloud Storage on Mi
 </p>
 <p>
  
--   To create the Resource Group an Azure subscrption is require
--   Once done, search for Resource Group 
--   Click on create and give your Resource Group a universally unique name, it's RGLAB for this project
--   Deployment might take a few minutes
+-   To create the Resource Group, an Azure subscrption is required
+   = Search for Resource Group 
+   - Click on create and give your Resource Group a universally unique name, it's RGLAB for this project
+   - Deployment might take a few minutes
 
 <p>
 <img src="https://imgur.com/PNb8vwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
